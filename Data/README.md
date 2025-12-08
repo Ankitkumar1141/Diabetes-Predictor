@@ -19,6 +19,7 @@ The dataset consists of 768 instances with 8 features. The features include:
 - Class 0 (No diabetes): 500 instances
 - Class 1 (Diabetes): 268 instances
 
+![image](https://github.com/Ankitkumar1141/Diabetes-Predictor/blob/bdacc6c5571a88f090094df13c999534ad63249c/Images/Distribution%20plots.png)
 
 ## Dataset Source
 The dataset can be accessed from the following source:  [Kaggle: Diabetes Data Set](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)

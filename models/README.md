@@ -16,6 +16,7 @@ The models included in this repository are trained on a dataset of diabetes pati
 
 The comparison plot above shows the performance of the ANN, LSTM, and RNN models in predicting diabetes. 
 
+![image](https://github.com/Ankitkumar1141/Diabetes-Predictor/blob/56a809c79da88afeae22a5b7da8fb6073db60933/Images/Models%20%20acc%20comaprision.png)
 ----
 
 # Diabetes Prediction- Notebook

@@ -69,6 +69,16 @@ Diabetes Prediction
 - Matplotlib
 - Streamlit
 
+### Exploratory Data Analysis Results
+
+![image](https://github.com/Ankitkumar1141/Diabetes-Predictor/blob/56a809c79da88afeae22a5b7da8fb6073db60933/Images/boxplot.png)
+
+![image](https://github.com/Ankitkumar1141/Diabetes-Predictor/blob/56a809c79da88afeae22a5b7da8fb6073db60933/Images/pairplot.png)
+
+![image](https://github.com/Ankitkumar1141/Diabetes-Predictor/blob/56a809c79da88afeae22a5b7da8fb6073db60933/Images/insulin%20%26%20glucose.png)
+
+![image](https://github.com/Ankitkumar1141/Diabetes-Predictor/blob/56a809c79da88afeae22a5b7da8fb6073db60933/Images/distribution%20of%20outcome.png)
+
 ### ⚙️ **Usage**
 
 1. **Exploring Notebooks**: Navigate to the `Models/` directory to explore Jupyter notebooks. These notebooks cover data analysis, preprocessing, model training, and evaluation steps.
